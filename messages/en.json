@@ -1,0 +1,288 @@
+{
+  "landingPage": {
+    "metaTitle": "Free Website Draft in 48 Hours, No Upfront Payment | GotFound",
+    "metaDescription": "Get a free draft of your small business website in 48 hours. %PRICE% with domain and hosting for the first year. No upfront payment: pay only if you like it.",
+    "headerBadge": "free draft · 48h",
+    "eyebrow": "Free draft / 48 hours",
+    "h1": "See your new website before you pay a cent.",
+    "subtitle": "Tell us about your business. Within 48 hours you get a real draft of your website, built for phones and for local search. Like it? It's yours for %PRICE%. Don't? You owe nothing.",
+    "offerTitle": "What you get",
+    "offer1": "A free, personalized draft in 48 hours",
+    "offer2": "%PRICE% one-time, domain and hosting included for year one",
+    "offer3": "No upfront payment, no contract to sign first",
+    "offer4": "Mobile-first, click-to-call, contact form and local SEO basics",
+    "ctaPrimary": "Get my free draft on WhatsApp",
+    "stickyCta": "WhatsApp · free draft",
+    "ctaNote": "A couple of lines is enough. No commitment.",
+    "trust1": "48h draft",
+    "trust2": "%PRICE% one-time",
+    "trust3": "$0 upfront",
+    "trust4": "US local businesses",
+    "formEyebrow": "Prefer a form?",
+    "formTitle": "Request your free draft",
+    "formName": "Your name",
+    "formEmail": "Email",
+    "formPhone": "Phone (optional)",
+    "formBusiness": "Business name and type (e.g. Joe's Pizza, restaurant)",
+    "formCity": "City and state",
+    "formMessage": "Anything we should know? (optional)",
+    "formSubmit": "Send request",
+    "formSubmitting": "sending…",
+    "formSuccess": "Thanks! We'll get back to you within 24 hours.",
+    "formError": "Something went wrong. Please message us on WhatsApp instead."
+  },
+  "servicesPage": {
+    "metaTitle": "Website Design Services for Small Businesses | GotFound",
+    "metaDescription": "Custom websites, local SEO setup, Google Business Profile help, online booking and small web apps for US local businesses. Free draft in 48 hours.",
+    "keywords": ["small business website design", "local seo setup", "website for local business", "google business profile help"],
+    "eyebrow": "Services",
+    "title": "Everything a local business needs to get found online.",
+    "intro": "We build simple, fast websites for small local businesses: restaurants, contractors, salons, shops, clinics and more. One clear offer, plus a few extras when you need them. Every project starts with a free draft.",
+    "highlight": "Websites for %PRICE% · free draft in 48h · no upfront payment",
+    "service1Title": "Business websites",
+    "service1Body": "A custom, mobile-first website that tells people what you do, where you are and how to reach you. No cookie-cutter template, no page builder to wrestle with.",
+    "service1Includes": ["Custom design for your business", "Built for phones first", "Click-to-call, WhatsApp and contact form", "Map, hours and directions", "Live within days of approval"],
+    "service2Title": "Local SEO setup",
+    "service2Body": "The groundwork that helps nearby customers find you on Google: clean page titles, structured data, fast load times, and consistent name, address and phone details.",
+    "service2Includes": ["Page titles and descriptions", "LocalBusiness structured data", "Sitemap and Search Console setup", "Speed and mobile checks"],
+    "service3Title": "Google Business Profile help",
+    "service3Body": "Your profile on Google Maps is often the first thing people see. We help you set it up or tidy it up, and link it properly to your new website.",
+    "service3Includes": ["Profile setup or cleanup", "Categories, hours and services", "Website and call links", "Tips for collecting reviews"],
+    "service4Title": "Booking, ordering and online stores",
+    "service4Body": "When you need more than a brochure site: appointment booking, simple ordering or a small online store. Quoted in writing before we start.",
+    "service4Includes": ["Appointment and table booking", "Simple online ordering", "Small online stores", "Payments with Stripe"],
+    "service5Title": "Custom web apps",
+    "service5Body": "If a spreadsheet or a pile of messages runs part of your business, we can turn it into a small web app built around how you actually work.",
+    "service5Includes": ["Process review", "Custom dashboards", "Integrations with tools you use", "Maintenance plans"],
+    "processTitle": "How it works",
+    "step1Title": "Tell us about your business",
+    "step1Body": "Message us on WhatsApp or use the form. Your business name, what you do and your city is enough to start.",
+    "step2Title": "Free draft in 48 hours",
+    "step2Body": "You get a real draft of your website. Don't like it? No problem, and no cost.",
+    "step3Title": "Approve and go live",
+    "step3Body": "Ask for changes, approve, then pay. We connect your domain and the site goes live.",
+    "price": "%PRICE%, one-time.",
+    "priceNote": "Complete website with domain and hosting included for the first year. Free draft first, no deposit, pay only once you approve it.",
+    "cta": "Get my free draft",
+    "backHome": "← Back to home"
+  },
+  "pricingPage": {
+    "metaTitle": "Pricing: %PRICE% Small Business Website, Domain & Hosting Included | GotFound",
+    "metaDescription": "One clear price: %PRICE% for a professional website, with domain and hosting included for the first year. Free draft in 48 hours, no upfront payment.",
+    "eyebrow": "Pricing",
+    "title": "One website. One price. No surprises.",
+    "intro": "No packages to decode and no monthly contract to sign. You see your draft first, and you only pay once you approve the finished website."
+  },
+  "howPage": {
+    "metaTitle": "How It Works: Free Website Draft in 48 Hours | GotFound",
+    "metaDescription": "From a two-line message to a live website: free draft in 48 hours, revisions, approval, then payment. Answers to common questions.",
+    "eyebrow": "How it works",
+    "title": "From a short message to a live website.",
+    "intro": "No long calls, no forms with 40 fields. Here is exactly what happens after you reach out."
+  },
+  "contactPage": {
+    "metaTitle": "Contact GotFound | Free Website Draft in 48 Hours",
+    "metaDescription": "Contact GotFound about a website for your local business. Use the form, WhatsApp or email. We reply within 24 hours.",
+    "eyebrow": "Contact",
+    "title": "Tell us about your business.",
+    "intro": "Fill in the form or message us on WhatsApp. A couple of lines is enough: your business name, what you do and your city. We reply personally within 24 hours on business days.",
+    "phoneLabel": "WhatsApp",
+    "emailLabel": "Email",
+    "areaLabel": "Service area",
+    "areaValue": "United States",
+    "areaNote": "We work remotely with local businesses across the US, by WhatsApp and email.",
+    "ctaWhatsApp": "Message us on WhatsApp",
+    "responseTime": "Reply within 24 hours · free draft in 48h",
+    "hoursTitle": "Response hours",
+    "hours": [
+      { "day": "Monday – Friday", "time": "9:00 am – 6:00 pm ET" },
+      { "day": "Saturday – Sunday", "time": "WhatsApp messages answered next business day" }
+    ],
+    "formTitle": "Send us a message",
+    "backHome": "← Back to home"
+  },
+  "blog": {
+    "metaTitle": "Guides for Local Businesses: Websites & Local SEO | GotFound",
+    "metaDescription": "Plain-English guides for US small business owners: what a website should cost, how to show up in local search, and how to make your Google Business Profile work.",
+    "eyebrow": "Guides",
+    "title": "Guides for local business owners.",
+    "intro": "Practical, no-jargon advice on websites, local SEO and getting found by customers near you."
+  },
+  "footer": {
+    "home": "home",
+    "services": "services",
+    "pricing": "pricing",
+    "how": "how it works",
+    "portfolio": "work",
+    "blog": "guides",
+    "contact": "contact",
+    "freeDraft": "free draft",
+    "privacy": "privacy",
+    "terms": "terms",
+    "cookies": "cookies",
+    "location": "websites for us local businesses"
+  },
+  "mobileBar": {
+    "cta": "Message us on WhatsApp",
+    "call": "call"
+  },
+  "home": {
+    "nav": {
+      "offer": "Pricing",
+      "process": "Process",
+      "work": "Work",
+      "faq": "FAQ",
+      "services": "Services",
+      "guides": "Guides",
+      "cta": "Free draft",
+      "motion": "Motion",
+      "motionOn": "on",
+      "motionReduced": "reduced",
+      "skip": "Skip to content"
+    },
+    "hero": {
+      "eyebrow": "Websites / Local businesses / USA",
+      "line1": "Your business.",
+      "line2": "Found.",
+      "line3": "In 48 hours.",
+      "sub": "A professional website for %PRICE%: domain and hosting included for the first year, a free draft in 48 hours, and no upfront payment.",
+      "cta": "Get my free draft",
+      "ctaNote": "A couple of lines on WhatsApp is enough. No commitment.",
+      "secondary": "See the offer",
+      "label1": "01 / Searched",
+      "label2": "02 / Found",
+      "scroll": "Scroll"
+    },
+    "marquee": {
+      "label": "Built for the businesses on your Main Street",
+      "pause": "Pause",
+      "play": "Play"
+    },
+    "problem": {
+      "eyebrow": "01 / The problem",
+      "title": "No website yet? Customers can't find you.",
+      "intro": "People look up a business before they call, visit or book. Without a website of your own, they only find bits and pieces, or someone else.",
+      "items": [
+        { "title": "Search", "body": "Someone types “plumber near me” or “pizza in [your town]”. A clear website gives Google something solid to show about you." },
+        { "title": "Maps", "body": "A Google Business Profile with no website feels unfinished. Your hours, menu, photos and services end up scattered across other sites." },
+        { "title": "Trust", "body": "Before they call, people check. A clean, up-to-date site says you're open, you're real and you're easy to reach." }
+      ]
+    },
+    "offer": {
+      "eyebrow": "02 / The offer",
+      "title": "One website. One price.",
+      "intro": "One clear offer from day one. No confusing packages, no monthly contract, no hidden fees.",
+      "cardLabel": "Professional website",
+      "price": "%PRICE%",
+      "priceNote": "One-time · domain and hosting included for the first year",
+      "badges": ["Free draft in 48 hours", "No upfront payment", "Pay only if you like it"],
+      "includedTitle": "Included",
+      "included": [
+        "Custom design, built for phones first",
+        "Domain and hosting for the first year",
+        "SSL certificate (https)",
+        "Click-to-call, WhatsApp and contact form",
+        "Map, opening hours and directions",
+        "Local SEO basics so nearby customers find you",
+        "Launch support"
+      ],
+      "excludedTitle": "Not included",
+      "excluded": [
+        "Domain and hosting renewal from year two",
+        "Online store and booking systems",
+        "Extra language versions",
+        "Professional photography and copywriting",
+        "Paid ads (Google Ads, social media)"
+      ],
+      "excludedNote": "Extras are quoted in writing before we start. Try the calculator below.",
+      "cta": "Get my free draft"
+    },
+    "sectors": {
+      "eyebrow": "03 / Who it's for",
+      "title": "Made for the businesses that keep a town running.",
+      "items": [
+        { "key": "restaurants", "label": "Restaurants", "title": "A menu people can read on their phone.", "body": "Menu, hours, photos and a one-tap button to call or order. Hungry people nearby find you in seconds.", "points": ["Mobile menu", "Call or order", "Map and hours"] },
+        { "key": "trades", "label": "Contractors", "title": "Your work, finally visible.", "body": "Plumbers, electricians, roofers, landscapers: show past jobs, your service area and a quick way to request a quote.", "points": ["Project gallery", "Quote requests", "Service area"] },
+        { "key": "salons", "label": "Salons & Spas", "title": "Booked from the first visit.", "body": "Services, prices, photos and an easy way to book. New clients see your style before they walk in.", "points": ["Service menu", "Booking link", "Photo gallery"] },
+        { "key": "shops", "label": "Shops", "title": "A storefront that never closes.", "body": "Products, brands, hours and directions. Locals know what you carry before they make the trip.", "points": ["Featured products", "Hours and map", "One-tap call"] },
+        { "key": "services", "label": "Local services", "title": "Clear services, easy to contact.", "body": "Clinics, studios, auto shops, cleaners, tutors: who you are, what you offer and how to reach you, on one fast site.", "points": ["Service pages", "Contact form", "Reviews section"] }
+      ]
+    },
+    "work": {
+      "eyebrow": "04 / A project",
+      "title": "Real work, described honestly.",
+      "tag": "Web app · Local mobility",
+      "name": "Andamus",
+      "status": "In development",
+      "body": "A ride-sharing web app for rural communities with few transit options: drivers post trips they're already making, passengers search the route and book a seat.",
+      "stack": "Next.js · Supabase · Google Maps · Stripe",
+      "cta": "See the project",
+      "alt": "Screenshot of the Andamus web app"
+    },
+    "process": {
+      "eyebrow": "05 / How it works",
+      "title": "From a message to a live website.",
+      "steps": [
+        { "title": "Message", "body": "Send us your business name, what you do and your city on WhatsApp or through the form. Two lines are enough." },
+        { "title": "Draft in 48h", "body": "Within 48 hours you get a free draft of your website. Look it over on your phone, at your own pace." },
+        { "title": "Approve", "body": "Ask for any changes. When you love it, you approve and pay. Not before." },
+        { "title": "Live", "body": "We connect your domain and hosting and the site goes live. We're still here afterwards." }
+      ]
+    },
+    "calc": {
+      "eyebrow": "06 / Calculator",
+      "title": "What will it really cost? Let's do the math.",
+      "intro": "Start from the base price. Add only what you need: extras are quoted together, in writing, before we start.",
+      "base": "Professional website",
+      "baseNote": "Domain and hosting for year one included",
+      "tbd": "quoted",
+      "extras": [
+        { "key": "lang", "label": "Spanish version", "note": "Or another language" },
+        { "key": "booking", "label": "Online booking", "note": "Tables, appointments, rentals" },
+        { "key": "shop", "label": "Online store", "note": "Sell online with card payments" },
+        { "key": "photo", "label": "Professional photos", "note": "Photo shoot at your business" },
+        { "key": "copy", "label": "Professional copywriting", "note": "Written for customers and for Google" }
+      ],
+      "total": "Estimated total",
+      "plusExtras": "+ extras, quoted",
+      "cta": "Ask for a quote on WhatsApp",
+      "waIntro": "Hi GotFound, I'd like the %PRICE% professional website",
+      "waExtras": "Extras I'm interested in:"
+    },
+    "trust": {
+      "eyebrow": "07 / Guarantees",
+      "title": "No upfront payment. No surprises.",
+      "items": [
+        { "title": "Pay only if you like it", "body": "The draft is free. If it doesn't win you over, you owe nothing." },
+        { "title": "Price in writing first", "body": "%PRICE% for the website. Any extra is agreed in writing before we start." },
+        { "title": "The domain is yours", "body": "Your web address is registered for your business. No lock-in." },
+        { "title": "A real person replies", "body": "You talk to the person building your site, on WhatsApp or email. No call center." }
+      ]
+    },
+    "faq": {
+      "eyebrow": "08 / Questions",
+      "title": "Frequently asked questions.",
+      "items": [
+        { "q": "How much does a website cost with GotFound?", "a": "The professional website costs %PRICE% one-time, with domain and hosting included for the first year. Extras like an online store, booking or extra languages are quoted in writing before we start." },
+        { "q": "Do I have to pay anything upfront?", "a": "No. You get a free draft within 48 hours and only pay once you like the website and approve it." },
+        { "q": "What happens after the first year?", "a": "From the second year, the domain and hosting renew. We tell you the cost clearly in advance, and you're free to move them elsewhere." },
+        { "q": "How long does it take?", "a": "The draft arrives within 48 hours of your first message. After you approve it, the site usually goes live within a few days, depending on the changes you ask for." },
+        { "q": "Is the domain registered to me?", "a": "Yes. The domain belongs to your business. If you ever switch providers, it goes with you." },
+        { "q": "Do you work with businesses anywhere in the US?", "a": "Yes. We work remotely, by WhatsApp and email, with local businesses in any state." },
+        { "q": "Can I update the site after it's live?", "a": "Of course. Small updates like hours or a menu change are quick; bigger changes are quoted first." },
+        { "q": "Will the site work well on phones?", "a": "Yes. Every site is designed for smartphones first, because that's where most local customers find you." }
+      ]
+    },
+    "final": {
+      "eyebrow": "09 / Contact",
+      "title": "Got a business? Let's get it found.",
+      "body": "Message us on WhatsApp or send the form: within 48 hours you'll have a draft of your website. Free, no commitment.",
+      "waLabel": "WhatsApp",
+      "formLabel": "Prefer a form?",
+      "formValue": "Contact form"
+    },
+    "sticky": {
+      "cta": "Message us on WhatsApp"
+    }
+  }
+}
