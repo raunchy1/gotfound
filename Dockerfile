@@ -12,7 +12,10 @@ COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 ENV NEXT_TELEMETRY_DISABLED=1
 ENV NODE_OPTIONS=--max-old-space-size=2048
-# No env placeholders here: Coolify injects build-args/env; the site needs none today.
+ARG NEXT_PUBLIC_NOINDEX
+ENV NEXT_PUBLIC_NOINDEX=$NEXT_PUBLIC_NOINDEX
+ARG NEXT_PUBLIC_SITE_URL
+ENV NEXT_PUBLIC_SITE_URL=$NEXT_PUBLIC_SITE_URL
 RUN npm run build
 
 FROM base AS runner
